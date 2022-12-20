@@ -1,5 +1,5 @@
 # Linear Regression Case Study : Bike - Sharing Assignment
-> Outline a brief description of your project.
+> Analyse bike-sharing system, and to model the demand for shared bikes with the available independent variables, which could be used for management for taking important decisions to manipulate the business strategy
 
 
 ## Table of Contents
